@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Item.h
+string
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/string
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Stack.cpp
+Stack.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Stack.h
+iostream
+-
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Stack.h
+StackInterface.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/StackInterface.h
+Item.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Item.h
+
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/StackInterface.h
+Item.h
+/Users/rgalvan/Documents/austincc/Data Struct and Algo/code/Lab2/Item.h
+
