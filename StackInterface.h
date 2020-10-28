@@ -53,6 +53,7 @@ public:
      */
     virtual void display() const = 0;
 
-    virtual ~StackInterface() = default;
+    virtual ~StackInterface(){
+	};
 };
 #endif //LAB2_STACKINTERFACE_H
